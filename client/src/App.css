@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Jua&display=swap');
+.App {
+  font-family: 'Pretendard', sans-serif;
+  padding: 20px;
+  background-color: #f3f6f4;
+  min-height: 100vh;
+}
+body {
+  font-family: 'Pretendard', sans-serif;
+  background-color: #F3F6F4;
+}

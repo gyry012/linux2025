@@ -1,0 +1,80 @@
+.card-container {
+  position: relative;
+}
+
+.card-label {
+  position: absolute;
+  top: -12px;
+  left: 16px;
+  background-color: #00462A;
+  color: white;
+  font-size: 14px;
+  padding: 6px 16px;
+  border-radius: 999px;
+  font-family: 'Jua', sans-serif;
+  z-index: 1;
+}
+
+.card.rain-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background: #CDE8B4;
+  border-radius: 20px;
+  padding: 16px;
+  font-family: 'Jua', sans-serif;
+}
+
+.rain-card p {
+  margin: 4px 0;
+  display: flex;
+  justify-content: center;
+  flex-wrap: nowrap;
+  gap: 4px;
+  font-size: 14px;
+  line-height: 1.3;
+  word-break: keep-all;
+}
+
+.rain-card .subtext {
+  font-size: 12px;
+  line-height: 1.3;
+  color: #00462A;
+  opacity: 0.8;
+  margin: 2px 0;
+  cursor: pointer;
+  text-decoration: underline;
+  max-width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.rain-card .subtext:nth-of-type(2) {
+  font-size: 11px;
+}
+
+.roadview-button {
+  background-color: #00462A;
+  color: white;
+  font-size: 11px;
+  padding: 4px 8px;
+  border-radius: 8px;
+  text-decoration: none;
+}
+
+.subtext {
+  color: #00462A;
+  opacity: 0.8;
+  margin: 4px 0;
+  cursor: pointer;
+  text-decoration: underline;
+  font-size: clamp(10px, 1.4vw, 12px);
+  line-height: 1.4;
+  white-space: normal;
+  word-break: keep-all;
+  overflow: visible;
+  text-overflow: unset;
+}
