@@ -1,5 +1,14 @@
-# 2025 LINUX TEAM PROJECT 
+# 프로젝트 소개
 
+이 저장소는 yeeun-uwu님의 저장소에서 공동 작업한 프로젝트를 기반으로 하며 
+개인적인 복습과 확장 개발을 위해 별도의 저장소로 이전한 것입니다.
+
+원본 저장소: https://github.com/yeeun-uwu/linux_team_project_2025
+
+함께 작업해주신 김형륜님, 유예원님, 이예은님께 감사드립니다!
+<br/>
+
+# 2025 LINUX TEAM PROJECT 
 > 2025년 봄학기 '리눅스 실습 프로젝트' 과목 과제 팀 프로젝트입니다. <br/>
 > Final team project for the Linux Practice Project course. <br/>
 > This website provides weather updates and useful information tailored for Ewha Womans University students.
